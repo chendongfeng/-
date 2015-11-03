@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6C7E7826-E48A-4851-A2C1-0D2D19F35B5B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>骏途旅游</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B418199F2218AC1D2183413AB23BD2B62E61E289</key>
+		<string>https://git.coding.net/jianghongjohn/myJuntu.git</string>
+		<key>F78C93DE83DBE73716F77F3AD2FAAE5DE6B1DD29</key>
+		<string>https://git.coding.net/jianghongjohn/JuntuNew.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>骏途旅游.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B418199F2218AC1D2183413AB23BD2B62E61E289</key>
+		<string>../..</string>
+		<key>F78C93DE83DBE73716F77F3AD2FAAE5DE6B1DD29</key>
+		<string>../../../%E9%AA%8F%E9%80%94%E6%97%85%E6%B8%B8%E9%A1%B9%E7%9B%AE%E5%90%8C%E6%AD%A5</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://git.coding.net/jianghongjohn/myJuntu.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B418199F2218AC1D2183413AB23BD2B62E61E289</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B418199F2218AC1D2183413AB23BD2B62E61E289</string>
+			<key>IDESourceControlWCCName</key>
+			<string>%E9%AA%8F%E9%80%94%E5%95%8A</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F78C93DE83DBE73716F77F3AD2FAAE5DE6B1DD29</string>
+			<key>IDESourceControlWCCName</key>
+			<string>%E9%AA%8F%E9%80%94%E6%97%85%E6%B8%B8%E9%A1%B9%E7%9B%AE%E5%90%8C%E6%AD%A5</string>
+		</dict>
+	</array>
+</dict>
+</plist>
